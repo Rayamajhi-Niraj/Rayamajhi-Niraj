@@ -18,3 +18,4 @@ In my master's research, I explored the **genetic diversity and structure** of a
 
 - **Email:** [nrayamaj@asu.edu](mailto:nrayamaj@asu)
 - **Twitter:** [@vaikazee](https://twitter.com/@vaikazee)
+- **Bluesky** [@niraj-rayamajhi.bsky.social](https://bsky.app/profile/niraj-rayamajhi.bsky.social)
