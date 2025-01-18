@@ -6,7 +6,7 @@ I’m a postdoctoral research scholar in Dr. [Susanne Pfeifer's Lab](http://spfe
 I earned my PhD under Dr. [Julian Catchen](https://catchenlab.life.illinois.edu/) at the University of Illinois, Urbana-Champaign, and completed my master’s degree in 
 Dr. [Jyotsna Sharma's lab](https://www.depts.ttu.edu/pss/sharma-lab/index.php) at Texas Tech University.
 
-Currently, I am investigating the **causes and consequences of structural variation** in biomedically relevant primates using cutting-edge sequencing data. 
+Currently, I'm investigating the **causes and consequences of structural variation** in biomedically relevant primates using cutting-edge sequencing data. 
 
 During my PhD, I focused on the **comparative and population genomics** of secondarily temperate *Paranotothenia angustata*, commonly known as New Zealand black cod.
 Additionally, I worked on the **genomics of highly cold-specialized fish**, *Trematomus borchgrevinki*, which is endemic to Antarctica. 
