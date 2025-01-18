@@ -12,6 +12,8 @@ During my PhD, I focused on the **comparative and population genomics** of secon
 
 In my master's research, I explored the **genetic diversity and structure** of a rare endemic cactus and assessed its genetic relationship with a more common congener.
 
+My research contributions are available on [Google Scholar](https://scholar.google.com/citations?user=SAl2iYYAAAAJ&hl=en)
+
 
 
 ##  Contact Information 🤝
