@@ -9,7 +9,7 @@ Dr. [Jyotsna Sharma's lab](https://www.depts.ttu.edu/pss/sharma-lab/index.php) a
 Currently, I am investigating the **causes and consequences of structural variation** in biomedically relevant primates using cutting-edge sequencing data. 
 
 During my PhD, I focused on the **comparative and population genomics** of secondarily temperate *Paranotothenia angustata*, commonly known as New Zealand black cod.
-Additionally, I worked on the **genomics of highly cold-specialized fish, *Trematomus borchgrevinki*, which is endemic to Antarctica. 
+Additionally, I worked on the **genomics of highly cold-specialized fish**, *Trematomus borchgrevinki*, which is endemic to Antarctica. 
 
 In my master's research, I explored the **genetic diversity and structure** of a rare endemic cactus and assessed its genetic relationship with a more common congener.
 
